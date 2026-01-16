@@ -315,7 +315,7 @@ export function RecurringDelayInput({
                 </code>
               </div>
               <p className="text-xs text-muted-foreground">
-                This is the ongoing value you're missing each week you wait to start.
+                This is the ongoing value you&apos;re missing each week you wait to start.
               </p>
             </div>
 
@@ -335,7 +335,7 @@ export function RecurringDelayInput({
                   </code>
                 </div>
                 <p className="text-xs text-muted-foreground">
-                  The value of the one-off benefit in today's dollars, accounting for time value of money.
+                  The value of the one-off benefit in today&apos;s dollars, accounting for time value of money.
                 </p>
               </div>
             )}

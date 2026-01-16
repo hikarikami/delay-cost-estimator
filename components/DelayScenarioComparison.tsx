@@ -48,7 +48,7 @@ export function DelayScenarioComparison({
               </code>
             </div>
             <p className="mt-1 ml-4 text-xs">
-              Longer delays cost more because you lose ongoing value and the one-time benefit is worth less in today's dollars.
+              Longer delays cost more because you lose ongoing value and the one-time benefit is worth less in today&apos;s dollars.
             </p>
           </div>
         </div>
